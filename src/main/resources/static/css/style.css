@@ -1,0 +1,37 @@
+html{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#large{
+    text-align: center;
+}
+header{
+    border-bottom: 1px solid gray;
+}
+#head{
+    margin-top: 15px ;
+    margin-bottom: 15px;
+}
+#signup{
+    text-align: right;
+}
+#top{
+    height: 100%;
+    width: 100%;
+}
+#title{
+    padding: 48px;
+    background-color: black;
+}
+#design1{
+    margin: 15px 0px 15px 0px;
+}
+#featured{
+    padding:20px
+}
+#post{
+    padding: 20px;
+}
+#world{
+    margin-right: 20px;
+}
